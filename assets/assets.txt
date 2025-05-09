@@ -4,7 +4,7 @@ i:ground.jpg:ground-894b3f62b21ed8049d430a331db671e8.jpg:64502:image/jpeg:1
 i:pic.jpg:pic-ba518f9da8d1fe06fa19841881ee7130.jpg:1602676:image/jpeg:1
 t:uiskin.atlas:uiskin-31e3615eb5d49cacf426339bbf9e6d32.atlas:10888:application/unknown:1
 t:default.fnt:default-2b179aaa833a1a6d99e077c15bb7a364.fnt:56914:application/unknown:1
-t:assets.txt:assets-95285f096c1e815678a8cfa9e3af0d9c.txt:263:text/plain:1
+t:assets.txt:assets-0e1e586f0875be0e18abab8127b84e3c.txt:300:text/plain:1
 d:cards:cards:0:application/unknown:1
 i:cards/card1.png:cards/card1-aff9f7776420614ba282f508879e66e3.png:143107:image/png:1
 i:cards/card2.png:cards/card2-a961269aea208604e4a5c331af85caaf.png:140494:image/png:1
@@ -14,12 +14,15 @@ t:uiskin.json:uiskin-603b902c045f153483a88d90b9d05ad1.json:5836:application/json
 i:libgdx.png:libgdx-3708f33d27b8977682d1bc8504e6a821.png:2458:image/png:1
 d:fbxs:fbxs:0:application/unknown:1
 b:fbxs/wheel.fbx:fbxs/wheel-a229ec69bfb549cfb30d7ee89698ad14.fbx:16940:application/unknown:1
+i:fbxs/test.png:fbxs/test-810a9152b802b29794de477421224759.png:82996:image/png:1
 b:fbxs/center.g3db:fbxs/center-cf1b84aa290bc64d629fbb6f914358f8.g3db:3920:application/unknown:1
 b:fbxs/card1.g3db:fbxs/card1-557e9d1af082058fd72eac6e2bcd1b5c.g3db:26509:application/unknown:1
 b:fbxs/footer.g3db:fbxs/footer-1cffe7aae01630146601ae479de6e6c8.g3db:5885:application/unknown:1
+d:fbxs/test.fbm:fbxs/test.fbm:0:application/unknown:1
+i:fbxs/test.fbm/test.png:fbxs/test.fbm/test-810a9152b802b29794de477421224759.png:82996:image/png:1
 b:fbxs/wheel.g3db:fbxs/wheel-f98c35b616130818be2bec16cb0b06b2.g3db:7245:application/unknown:1
 b:fbxs/fbx-conv:fbxs/fbx-conv-fc084c4fcf7c2bb5f7494ddac965a9f9:200432:application/unknown:1
-b:fbxs/test.g3db:fbxs/test-a44fc6ec34cabb66937ef85ae4042719.g3db:7533:application/unknown:1
+b:fbxs/test.g3db:fbxs/test-4db5383e48bcae56c5125ef9c0a37535.g3db:1376:application/unknown:1
 i:default.png:default-2a791ed19cce1d97a9082ae4e368f584.png:26179:image/png:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:particles.fragment-b90524761fdf09b0a836056d590c30b8.glsl:820:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:particles.vertex-f25b8b2fae10b9bfa09bfdd484923148.glsl:2886:application/unknown:1
